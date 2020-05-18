@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarea3-taller-integracion/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tarea3-taller-integracion/static/js/main.ef6cf49e.chunk.js",
+    "main.js.map": "/tarea3-taller-integracion/static/js/main.ef6cf49e.chunk.js.map",
+    "runtime-main.js": "/tarea3-taller-integracion/static/js/runtime-main.0d3f5914.js",
+    "runtime-main.js.map": "/tarea3-taller-integracion/static/js/runtime-main.0d3f5914.js.map",
+    "static/js/2.6a20f580.chunk.js": "/tarea3-taller-integracion/static/js/2.6a20f580.chunk.js",
+    "static/js/2.6a20f580.chunk.js.map": "/tarea3-taller-integracion/static/js/2.6a20f580.chunk.js.map",
+    "index.html": "/tarea3-taller-integracion/index.html",
+    "precache-manifest.1c5905b5833e692366643958c4cc48a6.js": "/tarea3-taller-integracion/precache-manifest.1c5905b5833e692366643958c4cc48a6.js",
+    "service-worker.js": "/tarea3-taller-integracion/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tarea3-taller-integracion/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6a20f580.chunk.js.LICENSE.txt": "/tarea3-taller-integracion/static/js/2.6a20f580.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tarea3-taller-integracion/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d3f5914.js",
+    "static/js/2.6a20f580.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ef6cf49e.chunk.js"
+  ]
+}
