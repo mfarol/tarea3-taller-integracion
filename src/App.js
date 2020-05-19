@@ -150,10 +150,11 @@ function App() {
     <div className="App">
       <link rel="stylesheet" type="text/css" href="style.css"></link>
      <div>
-     <div>
-      <Interruptor my_socket={socket} />
-    </div>
         <h1 text-align="center" >Acciones</h1>
+
+        <div>
+          <Interruptor my_socket={socket} />
+        </div>
 
         <h2>Mercados de Valores</h2>
 
