@@ -154,7 +154,7 @@ function App() {
 
   return (
     <div className="App">
-      
+      <link rel="stylesheet" type="text/css" href="style.css"></link>
      <div>
         <h1 text-align="center" >Acciones</h1>
 
