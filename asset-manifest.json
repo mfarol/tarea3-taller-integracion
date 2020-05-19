@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tarea3-taller-integracion/static/css/main.6353bc34.chunk.css",
-    "main.js": "/tarea3-taller-integracion/static/js/main.73a4b0b4.chunk.js",
-    "main.js.map": "/tarea3-taller-integracion/static/js/main.73a4b0b4.chunk.js.map",
+    "main.js": "/tarea3-taller-integracion/static/js/main.89848c92.chunk.js",
+    "main.js.map": "/tarea3-taller-integracion/static/js/main.89848c92.chunk.js.map",
     "runtime-main.js": "/tarea3-taller-integracion/static/js/runtime-main.0d3f5914.js",
     "runtime-main.js.map": "/tarea3-taller-integracion/static/js/runtime-main.0d3f5914.js.map",
     "static/js/2.c08845b7.chunk.js": "/tarea3-taller-integracion/static/js/2.c08845b7.chunk.js",
     "static/js/2.c08845b7.chunk.js.map": "/tarea3-taller-integracion/static/js/2.c08845b7.chunk.js.map",
     "index.html": "/tarea3-taller-integracion/index.html",
-    "precache-manifest.927b028977b7a5711f49fa08df05fff6.js": "/tarea3-taller-integracion/precache-manifest.927b028977b7a5711f49fa08df05fff6.js",
+    "precache-manifest.f99beb7d1176f91bc1b2aa9ff0ebd219.js": "/tarea3-taller-integracion/precache-manifest.f99beb7d1176f91bc1b2aa9ff0ebd219.js",
     "service-worker.js": "/tarea3-taller-integracion/service-worker.js",
     "static/css/main.6353bc34.chunk.css.map": "/tarea3-taller-integracion/static/css/main.6353bc34.chunk.css.map",
     "static/js/2.c08845b7.chunk.js.LICENSE.txt": "/tarea3-taller-integracion/static/js/2.c08845b7.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0d3f5914.js",
     "static/js/2.c08845b7.chunk.js",
     "static/css/main.6353bc34.chunk.css",
-    "static/js/main.73a4b0b4.chunk.js"
+    "static/js/main.89848c92.chunk.js"
   ]
 }
