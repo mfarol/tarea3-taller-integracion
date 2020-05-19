@@ -14,20 +14,12 @@ import {
   YAxis,
   Tooltip
 } from 'recharts';
+import SwitchExample from "./components/ReactSwitch.js";
 
-var socketStatus = document.getElementById('status');
 
 var socket = io('wss://le-18262636.bitzonte.com', {
     path: '/stocks'
   });
-
-socket.onclose = function(event) {
-    socketStatus.innerHTML = 'Desconectado de WebSocket.';
-};
-
-socket.onopen = function(event) {
-    socketStatus.innerHTML = 'Connected to: ' + event.currentTarget.url;
-};
 
 const columns = [{
     Header: 'Nombre',
@@ -156,6 +148,9 @@ function App() {
     <div className="App">
       <link rel="stylesheet" type="text/css" href="style.css"></link>
      <div>
+     <div>
+      <SwitchExample my_socket={socket} />
+    </div>
         <h1 text-align="center" >Acciones</h1>
 
         <h2>Mercados de Valores</h2>
