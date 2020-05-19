@@ -11,10 +11,8 @@ class Interruptor extends Component {
 
   handleChange(checked) {
     if (this.props.my_socket.connected) {
-      alert("Se cerró el Websocket");
       this.props.my_socket.close();
     } else {
-      alert("Se abrió el Websocket");
       this.props.my_socket.open();
     }
     this.setState({ checked });
