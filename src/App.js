@@ -16,7 +16,6 @@ import {
 } from 'recharts';
 
 var socketStatus = document.getElementById('status');
-var closeBtn = document.getElementById('close');
 
 var socket = io('wss://le-18262636.bitzonte.com', {
     path: '/stocks'
@@ -152,14 +151,6 @@ function App() {
         });
     }, []);
 
-    closeBtn.onclick = function(e) {
-        e.preventDefault();
-    
-        // Close the WebSocket.
-        socket.close();
-    
-        return false;
-    };
 
   return (
     <div className="App">
