@@ -14,8 +14,10 @@ import {
   YAxis,
   Tooltip
 } from 'recharts';
-import SwitchExample from "./components/ReactSwitch.js";
+import Interruptor from "./componente/Switch.js";
 
+
+// codigo parcialmente basado en https://github.com/codyseibert/youtube/tree/master/realtime-chart-websockets/src
 
 var socket = io('wss://le-18262636.bitzonte.com', {
     path: '/stocks'
@@ -149,7 +151,7 @@ function App() {
       <link rel="stylesheet" type="text/css" href="style.css"></link>
      <div>
      <div>
-      <SwitchExample my_socket={socket} />
+      <Interruptor my_socket={socket} />
     </div>
         <h1 text-align="center" >Acciones</h1>
 
