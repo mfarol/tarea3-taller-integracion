@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a66f2126727119b85860621329e9100",
+    "revision": "6ae49427397c1277ca870b8513b1000d",
     "url": "/tarea3-taller-integracion/index.html"
   },
   {
-    "revision": "6a83e4c6fbfdc745cf2f",
+    "revision": "679c44228763e2f894f5",
     "url": "/tarea3-taller-integracion/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "0894b75047eb9b010d24",
-    "url": "/tarea3-taller-integracion/static/js/2.6a20f580.chunk.js"
+    "revision": "295da1239a8d01a74d17",
+    "url": "/tarea3-taller-integracion/static/js/2.5dff0a1b.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/tarea3-taller-integracion/static/js/2.6a20f580.chunk.js.LICENSE.txt"
+    "revision": "1b46b7aa1d3877be7eff82dd2d3992e5",
+    "url": "/tarea3-taller-integracion/static/js/2.5dff0a1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a83e4c6fbfdc745cf2f",
-    "url": "/tarea3-taller-integracion/static/js/main.ef6cf49e.chunk.js"
+    "revision": "679c44228763e2f894f5",
+    "url": "/tarea3-taller-integracion/static/js/main.0ab00317.chunk.js"
   },
   {
     "revision": "0c8514c239b800fc26c0",
