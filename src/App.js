@@ -163,11 +163,7 @@ function App() {
 
   return (
     <div className="App">
-      <div id="botones">
-      <div id="status">Conectado al Websocket</div>
-      <button type="button" id="close">Desconectarse del Websocket</button>
-      <button type="button" onClick="window.location.reload();">Conectarse al Websocket</button>
-      </div>
+      
      <div>
         <h1 text-align="center" >Acciones</h1>
 
