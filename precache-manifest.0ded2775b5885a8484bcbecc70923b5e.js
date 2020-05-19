@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48b887e0fed8147d60cb9d57d4d6ede3",
+    "revision": "dddafacf12a6ea681334c2b46f0c069e",
     "url": "/tarea3-taller-integracion/index.html"
   },
   {
-    "revision": "6827d8b26bc652ebdfcf",
+    "revision": "ad5a3d4680bf52eb3b4d",
     "url": "/tarea3-taller-integracion/static/css/main.6353bc34.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarea3-taller-integracion/static/js/2.c08845b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6827d8b26bc652ebdfcf",
-    "url": "/tarea3-taller-integracion/static/js/main.89848c92.chunk.js"
+    "revision": "ad5a3d4680bf52eb3b4d",
+    "url": "/tarea3-taller-integracion/static/js/main.756d4e4e.chunk.js"
   },
   {
     "revision": "0c8514c239b800fc26c0",
